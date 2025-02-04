@@ -1,3 +1,5 @@
 Dynamic light reflection using Metal shader.
 
-**You need to add your own image to see full demo**
+**You need to add your own image to see full demo.**
+
+
